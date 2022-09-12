@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <iframe scrolling="no" src="https://onedrive.live.com/embed?resid=1936239876C2833B%21285&authkey=%21AErG0UbGpEsvB3k&em=2&wdAllowInteractivity=False&AllowTyping=True&ActiveCell='Consultar'!C3&Item='Consultar'!B2%3AF66&wdHideGridlines=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=false&resen=false"></iframe>
+      <iframe scrolling="no" src="https://onedrive.live.com/embed?resid=BE09E1A7AD9639C1%211625&authkey=%21AEkKhplncQiKQQg&em=2&wdAllowInteractivity=False&AllowTyping=True&ActiveCell='Consultar'!C3&Item='Consultar'!B1%3AF68&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=false&resen=false"></iframe>
     </div>
   )
 }
