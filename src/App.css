@@ -1,11 +1,17 @@
 .App {
-    width: 100vh;
-    height: 100vh;
+    width: 100vw;
+    height: auto;
     overflow: hidden;
 }
 
-iframe {
-    overflow: hidden;
+.App .container {
+    position: absolute;
     width: 100%;
-    height: 100%;
+    background-color: #404040;
+}
+
+iframe {
+    position: relative;
+    width: 100%;
+    height: 100vh;
 }
